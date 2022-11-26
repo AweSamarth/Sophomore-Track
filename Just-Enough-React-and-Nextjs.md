@@ -1,5 +1,7 @@
 # Just Enough React (and Next.js)
 
+## change fruit example
+
 In the Freshman Track, we built a very simple dApp that used HTML, CSS, and some Javascript. In the real world, however, these type of 'vanilla' website implementations are a thing of the past.
 
 Today, we use web frameworks to simplify the web development process. Is it simpler though? Depends on whose perspective you're looking from. If you're just starting out and have never done this before, it may take some time till you understand all the necessary concepts. But, in the long run, you will thank yourself and be happy that you took the time to learn it.
