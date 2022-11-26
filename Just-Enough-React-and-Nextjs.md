@@ -259,7 +259,7 @@ function ThisWorks() {
 
   function increment() {
     // Sets the new value to the old value + 1
-    setMyNumber(myNumber + 1);
+    setMyNumber((prev)=>prev + 1);
   }
 
   return (
